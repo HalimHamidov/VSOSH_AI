@@ -2,9 +2,9 @@
 Тестовые варианты регионального этапа ВсОШ по ИИ
 Тестовые варианты регионального этапа ВсОШ по ИИ
 
-Математический тур — contest.yandex.ru/contest/87862
+Математический тур — [contest.yandex.ru/contest/87862](https://contest.yandex.ru/contest/87862/enter/)
 
-Анализ данных и машинное обучение — contest.yandex.ru/contest/87863
+Анализ данных и машинное обучение — [contest.yandex.ru/contest/87863](https://contest.yandex.ru/contest/87863/enter/)
 
 Региональный этап состоит из двух туров по 5 астрономических часов каждый.
 
