@@ -26,3 +26,9 @@ https://colab.research.google.com/drive/1hKkkuacOzqvdKwP_TR80Ws-JDerumXm7
 Тур анализа данных и машинное обучение
 
 https://colab.research.google.com/drive/10JDFGoQ3oqpQdDviC2MF3p9gBmryPfj2#scrollTo=GCYAz7X_TTgJ
+
+Авторское решение
+https://drive.google.com/drive/folders/1HuJcF9saksPiJYf7lgHqArqABHHZCzOx?usp=sharing
+
+ссылка на то, что я на паре рассказывал
+(100 + 94.25+95.84+100)
